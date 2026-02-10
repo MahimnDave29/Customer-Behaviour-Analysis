@@ -5,7 +5,12 @@ Analyzed customer purchasing patterns, subscription behavior, revenue distributi
 # Dataset
 https://www.kaggle.com/datasets/sahilislam007/shopping-trends-and-customer-behaviour-dataset
 
-# Project Overview
+# Dashboard
+
+<img width="1571" height="900" alt="image" src="https://github.com/user-attachments/assets/93643486-dd99-4e01-8c5e-f9471f7eb89d" />
+
+
+# Key Insights
 
 Total Customers: 3.9K
 
